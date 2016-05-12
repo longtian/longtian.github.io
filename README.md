@@ -10,6 +10,8 @@
 
 **2016**
 
+[怎样为你的 Commit 加上 GPG 的签名](https://github.com/wyvernnot/gpg-howto)
+
 [Webpack 性能专题](https://github.com/wyvernnot/webpack_performance)
 
 [StatsD 介绍](https://github.com/wyvernnot/introduction-to-statsd)
