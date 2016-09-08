@@ -6,13 +6,25 @@
 
 对技术充满热情，热衷于参与开源项目和前沿技术的翻译和传播。
 
+## 演讲
+
+[Node.JS 项目中的性能监控的原理和 Docker 的使用](https://github.com/wyvernnot/node-party-10)
+
+[小创公司如何提高前端开发效率](http://www.slideshare.net/wyvernnot/frontend-devopsv10-62972604)
+
+[实时用户体验收集](http://www.slideshare.net/wyvernnot/ss-63231573)
+
+[前端 DevOps 实践](http://www.slideshare.net/wyvernnot/frontend-devops-at-cloudinsight)
+
+## 专题博客
+
+[Webpack Performance](http://webpack-performance.com/)
+
 ## 原创文章
 
 **2016**
 
 [怎样为你的 Commit 加上 GPG 的签名](https://github.com/wyvernnot/gpg-howto)
-
-[Webpack 性能专题](https://github.com/wyvernnot/webpack_performance)
 
 [StatsD 介绍](https://github.com/wyvernnot/introduction-to-statsd)
 
@@ -49,6 +61,15 @@
 ## 开源项目
 
 **2016**
+
+[anywhere-webpack-plugin](https://github.com/wyvernnot/anywhere-webpack-plugin)
+<span class='badges npm'/>
+
+[dnspod-import-core](https://github.com/wyvernnot/dnspod-import-core)
+<span class='badges npm'/>
+
+[cicon](https://github.com/cloudinsight/cicon)
+<span class='badges npm'/>
 
 [redux-deferred](https://github.com/wyvernnot/redux-deferred)
 <span class='badges npm'/>
@@ -123,6 +144,12 @@
 
 **2016**
 
+[基于 Wilddog 打造一个内存分析仪表盘](https://github.com/wyvernnot/v8-memory-dashboard)
+
+[基于 Webpack 的功能管理](https://github.com/wyvernnot/feature-toggles-with-webpack)
+
+[React ShouldComponentUpdate 性能](https://github.com/wyvernnot/react-scu)
+
 [Redux 项目的单元测试](https://github.com/wyvernnot/redux-unit-test-example)
 
 [Docker Compose](https://github.com/wyvernnot/docker-compose-examples)
@@ -150,7 +177,3 @@
 **2014**
 
 [基于 HTML5 的虚拟桌面技术](https://github.com/wyvernnot/html5-vdi)
-
-## 演讲
-
-[Node.JS 项目中的性能监控的原理和 Docker 的使用](https://github.com/wyvernnot/node-party-10)
