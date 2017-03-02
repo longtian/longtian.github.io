@@ -1,6 +1,6 @@
 ## 关于我
 
-毕业 3 年，一直在从事前端相关的开发工作，现任 OneAPM Node.JS 高级工程师
+毕业 4 年，一直在从事前端相关的开发工作，现任 OneAPM 高级工程师。
 
 对前端工程化，敏捷开发，性能监控，数据可视化等有一定的研究。
 
@@ -21,6 +21,9 @@
 [Webpack Performance](http://webpack-performance.com/)
 
 ## 原创文章
+**2017**
+
+[异常指标检测](https://github.com/wyvernnot/introduction-to-outlier-detection)
 
 **2016**
 
@@ -59,6 +62,15 @@
 [Node.JS 错误处理最佳实践](https://github.com/wyvernnot/Node-Production-Practices)
 
 ## 开源项目
+
+**2017**
+
+[git-internals](https://github.com/wyvernnot/git-internals)
+
+[qshell-cli](https://github.com/wyvernnot/qshell-cli)
+<span class='badges npm'/>
+
+[opentsdb-metrics-to-influxdb](https://github.com/wyvernnot/opentsdb-metrics-to-influxdb)
 
 **2016**
 
