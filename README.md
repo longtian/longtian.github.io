@@ -1,6 +1,6 @@
 ## 关于我
 
-毕业 4 年，一直在从事前端相关的开发工作，现任 OneAPM 高级工程师。
+毕业 4 年，一直在从事前端相关的开发工作。
 
 对前端工程化，敏捷开发，性能监控，数据可视化等有一定的研究。
 
@@ -15,6 +15,8 @@
 [实时用户体验收集](http://www.slideshare.net/wyvernnot/ss-63231573)
 
 [前端 DevOps 实践](http://www.slideshare.net/wyvernnot/frontend-devops-at-cloudinsight)
+
+[前端转行 DevOps 经验分享](https://www.slideshare.net/wyvernnot/devops-75662935)
 
 ## 专题博客
 
